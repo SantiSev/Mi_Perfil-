@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Storage\Digital Programing\.NET\Proyectos\Mi_Perfil\bin\Debug\Mi_Perfil.exe.config
+C:\Users\User\Desktop\Storage\Digital Programing\.NET\Proyectos\Mi_Perfil\bin\Debug\Mi_Perfil.exe
+C:\Users\User\Desktop\Storage\Digital Programing\.NET\Proyectos\Mi_Perfil\bin\Debug\Mi_Perfil.pdb
+C:\Users\User\Desktop\Storage\Digital Programing\.NET\Proyectos\Mi_Perfil\obj\Debug\Mi_Perfil.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Storage\Digital Programing\.NET\Proyectos\Mi_Perfil\obj\Debug\Mi_Perfil.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Storage\Digital Programing\.NET\Proyectos\Mi_Perfil\obj\Debug\Mi_Perfil.exe
+C:\Users\User\Desktop\Storage\Digital Programing\.NET\Proyectos\Mi_Perfil\obj\Debug\Mi_Perfil.pdb
